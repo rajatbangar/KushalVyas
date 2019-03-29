@@ -17,8 +17,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+            <state relative-caret-position="136">
+              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -54,7 +54,7 @@
           <expand>
             <path>
               <item name="KushalVyas" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KushalVyas" type="462c0819:PsiDirectoryNode" />
+              <item name="kushalvyas" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -91,12 +91,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553860937952</updated>
-      <workItem from="1553860940511" duration="478000" />
+      <workItem from="1553860940511" duration="751000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="478000" />
+    <option name="totallyTimeSpent" value="751000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -130,8 +130,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        <state relative-caret-position="136">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
         </state>
       </provider>
     </entry>
