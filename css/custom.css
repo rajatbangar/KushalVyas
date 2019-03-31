@@ -1,1 +1,43 @@
 /* your styles go here */
+.no-space{
+    display: flex;
+}
+ul{
+    flex: 1;
+    margin-bottom: 50px;
+}
+li{
+    list-style-type: none;
+}
+.facebook{
+    margin-bottom: -80px;
+}
+.fa-heart{
+    color: red;
+}
+#about,#contact{
+    padding-bottom: 0px;
+}
+.icon{
+    font-size: 80px;
+    color: #36454F;
+}
+h4 a{
+    color: yellow;
+}
+a:hover{
+    text-decoration: none;
+}
+.img-responsive{
+    max-width: 80%;
+    max-height: 50%;
+}
+@media screen and (max-width: 480px) {
+    .no-space{
+        display: inline;
+    }
+    i{
+        margin-bottom: 20px;
+    }
+
+}
