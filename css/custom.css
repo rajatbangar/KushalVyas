@@ -16,10 +16,17 @@ li{
 }
 #about,#contact{
     padding-bottom: 0px;
+    margin-top: 0px;
 }
-.icon{
-    font-size: 80px;
-    color: #36454F;
+.social{
+    height: 80px;
+    width: 80px;
+}
+.tag-logo{
+    margin-top: -60px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 h4 a{
     color: black;
@@ -37,6 +44,10 @@ a:hover{
     }
     i{
         margin-bottom: 20px;
+    }
+    li{
+        padding-right: 0;
+        margin: 0px 50% 0px 30%;
     }
 
 }
